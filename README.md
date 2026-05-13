@@ -15,7 +15,16 @@
 
 ---
 
-My current stack:
+## My current stack:
+### Laguages:
+
+### Software:
+
+### Hardware:
+
+---
+
+Education:
 
 ---
 <!--
