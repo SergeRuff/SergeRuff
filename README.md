@@ -1,8 +1,23 @@
 <h1 align="center">Oh, hello there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Hardware full-stack engineer.</h3>
 
+### Welcome to my own github page.
 
+---
+
+## About me
+...
+
+*
+*
+*
+*
+
+---
+
+My current stack:
+
+---
 <!--
 **SergeRuff/SergeRuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
