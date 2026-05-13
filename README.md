@@ -1,6 +1,6 @@
 <h1 align="center">Oh, hello there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Hardware full-stack engineer, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Hardware full-stack engineer.</h3>
 
 
 <!--
