@@ -25,8 +25,16 @@
 ---
 
 ## Education:
-||||
+
+| Header 1 | Header 2 | Header 3 |
+| :--- | :---: | ---: |
+| ... | ... | ... |
+| string | cell | $10 |
+
 ---
+
+## GitHub Statistics:
+
 <!--
 **SergeRuff/SergeRuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
