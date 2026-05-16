@@ -51,6 +51,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### Codewars
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+
 <!--
 **SergeRuff/SergeRuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
