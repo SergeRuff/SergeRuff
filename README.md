@@ -39,11 +39,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sergeruff)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Longest Streack
+### Longest Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SergeRuff)](https://git.io/streak-stats)
 
-### Used Languages
+<!-- ### Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeruff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -54,7 +54,7 @@
 
 ### Codewars
 
-[![codewars](https://www.codewars.com/users/sergeruff/badges/large)](https://www.codewars.com/users/sergeruff)
+[![codewars](https://www.codewars.com/users/sergeruff/badges/large)](https://www.codewars.com/users/sergeruff) -->
 
 <!--
 **SergeRuff/SergeRuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
