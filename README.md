@@ -1,4 +1,4 @@
-<h1 align="center">Oh, hello there
+<h1 align="left">Oh, hello there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### Welcome to my own github page.
@@ -42,6 +42,15 @@
 ### Longest Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SergeRuff)](https://git.io/streak-stats)
+
+---
+
+## Links to my socials
+
+*
+*
+*
+* 
 
 <!-- ### Used Languages
 
