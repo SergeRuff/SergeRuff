@@ -35,6 +35,10 @@
 
 ## GitHub Statistics:
 
+### GitHub stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeruff)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sergeruff)](https://github.com/ryo-ma/github-profile-trophy)
