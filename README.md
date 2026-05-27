@@ -47,6 +47,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SergeRuff)](https://git.io/streak-stats)
 
+### Readme card
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## Links to my socials
